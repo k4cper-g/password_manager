@@ -1,5 +1,5 @@
 # password-manager
-Simple console password manager.
+Simple console password manager with encrypting/decrypting mechanism.
 
 PL
 ----
