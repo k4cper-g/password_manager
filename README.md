@@ -3,8 +3,6 @@ Simple console password manager.
 
 PL
 ----
-Format danych:
-
 Kazda informacja jest wyszukiwana na podstawie pierwszej litery stojacej od nowej linii w bazie danych.
 Zawsze na pierwszej linii jest miejsce dla timestamp.
 Na drugiej linii zawsze znajduje sie haslo glowne. Domyslnym haslem glownym jest "admin".
