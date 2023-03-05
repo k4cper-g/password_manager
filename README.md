@@ -1,5 +1,5 @@
 # password-manager
-Console password manager with encrypting/decrypting mechanism.
+Console password manager with encrypting/decrypting mechanism written in C++.
 
 PL
 ----
